@@ -1,4 +1,6 @@
 DOM PROJECT 1 COMPLETED
+
+
 style.color           // Change text color to blue
 style.backgroundColor // Change background color to yellow
 style.margin           // Add a margin of 20px
